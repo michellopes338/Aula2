@@ -1,0 +1,15 @@
+/media/michel/HDD/DevProjects/csharp/Aula2/bin/Debug/net6.0/Aula2
+/media/michel/HDD/DevProjects/csharp/Aula2/bin/Debug/net6.0/Aula2.deps.json
+/media/michel/HDD/DevProjects/csharp/Aula2/bin/Debug/net6.0/Aula2.runtimeconfig.json
+/media/michel/HDD/DevProjects/csharp/Aula2/bin/Debug/net6.0/Aula2.dll
+/media/michel/HDD/DevProjects/csharp/Aula2/bin/Debug/net6.0/ref/Aula2.dll
+/media/michel/HDD/DevProjects/csharp/Aula2/bin/Debug/net6.0/Aula2.pdb
+/media/michel/HDD/DevProjects/csharp/Aula2/obj/Debug/net6.0/Aula2.csproj.AssemblyReference.cache
+/media/michel/HDD/DevProjects/csharp/Aula2/obj/Debug/net6.0/Aula2.GeneratedMSBuildEditorConfig.editorconfig
+/media/michel/HDD/DevProjects/csharp/Aula2/obj/Debug/net6.0/Aula2.AssemblyInfoInputs.cache
+/media/michel/HDD/DevProjects/csharp/Aula2/obj/Debug/net6.0/Aula2.AssemblyInfo.cs
+/media/michel/HDD/DevProjects/csharp/Aula2/obj/Debug/net6.0/Aula2.csproj.CoreCompileInputs.cache
+/media/michel/HDD/DevProjects/csharp/Aula2/obj/Debug/net6.0/Aula2.dll
+/media/michel/HDD/DevProjects/csharp/Aula2/obj/Debug/net6.0/ref/Aula2.dll
+/media/michel/HDD/DevProjects/csharp/Aula2/obj/Debug/net6.0/Aula2.pdb
+/media/michel/HDD/DevProjects/csharp/Aula2/obj/Debug/net6.0/Aula2.genruntimeconfig.cache
