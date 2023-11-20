@@ -1,7 +1,7 @@
 class Album
 {
     List<Musica> musicas = new();
-    public string Nome { get; set; }
+    public string Nome { get; }
 
     public Album(string nome)
     {

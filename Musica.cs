@@ -1,17 +1,14 @@
 class Musica
 {
-    public Musica(string nome, Banda artista, int duracao, bool disponivel, Genero genero)
+    public Musica(string nome, Banda artista)
     {
         this.nome = nome;
         this.artista = artista;
-        this.duracao = duracao;
-        Disponivel = disponivel;
-        Genero = genero;
     }
     public string nome;
     public Banda artista;
     public int duracao;
-    public bool Disponivel {get;}
+    public bool Disponivel {get; set;}
 
     public Genero Genero { get; set; }
 

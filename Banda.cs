@@ -1,6 +1,6 @@
 class Banda
 {
-    public string Nome { get; set; }
+    public string Nome { get; }
     public List<Album> albuns = new();
     public Banda(string nome)
     {
